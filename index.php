@@ -1,3 +1,3 @@
 <?php
-  include_once("./portfolio/home.html");
+  header("Locationi: https://jaypee-portfolio.herokuapp.com/portfolio/home.html");
 ?>
