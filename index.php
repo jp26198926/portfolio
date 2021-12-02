@@ -1,3 +1,3 @@
 <?php
-  header("Locationi: https://jaypee-portfolio.herokuapp.com/portfolio/home.html");
+  header("Location: https://jaypee-portfolio.herokuapp.com/portfolio/home.html");
 ?>
